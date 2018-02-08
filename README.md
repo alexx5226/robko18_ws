@@ -79,7 +79,7 @@ or push an existing repository from the command line. in the dir:
 first set:
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
-
+AAAAAAAAAAAAAAAA
 git init
 git add . or git add --all
 git commit -m 'First commit'
